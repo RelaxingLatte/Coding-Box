@@ -1,3 +1,3 @@
 import translator
 
-print(translate(input("Enter a phrase!")))
+print(translator.translate(input("Enter a phrase!")))
